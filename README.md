@@ -1,3 +1,3 @@
-### <strong>Hello, World!</strong>
+# Hello, World!
 
 Welcome to my page😄
